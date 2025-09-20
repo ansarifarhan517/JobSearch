@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+python-dotenv
+pandas
+PyMuPDF
+openai
+requests
+pymupdf
+colorama

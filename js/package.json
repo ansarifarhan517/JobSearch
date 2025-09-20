@@ -1,0 +1,24 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Farhan",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "dependencies": {
+    "@huggingface/inference": "^4.8.0",
+    "csv-parser": "^3.2.0",
+    "csv-stringify": "^6.6.0",
+    "dotenv": "^17.2.2",
+    "node-fetch": "^3.3.2",
+    "pdf-parse": "^1.1.1",
+    "selenium-webdriver": "^4.35.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^140.0.2"
+  }
+}

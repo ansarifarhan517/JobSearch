@@ -1,0 +1,417 @@
+"Job Title","Company","Location","Footer","Easy Apply","Job Type","Description","Experience Required","Salary Mentioned","Apply Link"
+"Full Stack Developer","Graphē","Kolkata, West Bengal, India","Viewed | Promoted | Easy Apply","Yes"," Full-time
+Matches your job preferences, job type is Full-time.","About the job
+Company Description
+Graphē is a design studio based in Kolkata that offers diverse design solutions to individuals and companies. From brand identity development to print designs for fabrics, we cater to the design needs of every industry. Our team of passionate designers and artists strives to provide thoughtful and engaging design solutions.
+
+Role Description
+We are seeking a Full-Stack Developer with deep expertise in React.js, Node.js, and Python to lead the design and development of high-performance, scalable web applications. You’ll work closely with cross-functional teams to deliver robust digital solutions while also mentoring junior developers and driving architectural decisions.
+
+Key Responsibilities:
+Frontend Development (React.js)
+Architect, develop, and maintain advanced user interfaces using React.js, TypeScript, and modern component libraries (e.g., MUI, Tailwind).
+Optimize UI for performance, accessibility, and responsiveness across devices.
+Integrate frontend with backend services via REST/GraphQL APIs.
+Implement state management (Redux, Zustand, or Context API) effectively.
+
+Backend Development (Node.js & Python)
+Build RESTful and asynchronous APIs using Node.js (Express/Nest.js) and Python (Flask/FastAPI/Django).
+Design and maintain scalable server-side architecture and microservices.
+Work with both relational and non-relational databases (e.g., PostgreSQL, MongoDB, Redis).
+Develop and implement authentication/authorization protocols (JWT, OAuth2).
+Manage background tasks and asynchronous workflows (e.g., using Celery with Python).
+
+DevOps & Architecture
+Lead code reviews, enforce best practices, and define coding standards.
+Set up and maintain CI/CD pipelines and cloud deployments (AWS, GCP, or DigitalOcean).
+Implement containerization (Docker) and orchestrate services (Kubernetes or Docker Compose).
+Ensure application security, performance tuning, and API monitoring/logging.
+
+Team Collaboration & Leadership
+Collaborate with product managers, UI/UX designers, and other developers to align technical and business goals.
+Mentor junior developers and lead by example in writing clean, scalable, and maintainable code.
+Take ownership of projects from concept to deployment and support.
+
+Required Skills & Qualifications:
+2–3 years of full stack development experience.
+Expert proficiency in React.js, Node.js, and Python.
+Strong understanding of system design, architecture patterns, and full software development lifecycle.
+Proficient in working with Git, Docker, PostgreSQL/MongoDB, REST/GraphQL, and Cloud Services.
+Experience in developing scalable microservices and handling high traffic systems.
+Solid understanding of testing frameworks (Jest, Mocha, PyTest, etc.).
+Excellent problem-solving and communication skills.
+
+Nice-to-Have / Bonus Skills:
+Experience with Next.js or Server-Side Rendering (SSR).
+Background in machine learning or data engineering using Python.
+Familiarity with infrastructure-as-code tools (Terraform, Ansible).
+Experience with real-time communication (WebSockets, Socket.IO).
+
+Joining : Immediate (On-Site Only).
+Apply by sending your CV and portfolio at careers@thegraphe.com.","3 years","N/A","N/A","LINKEDIN"
+"Back End Developer","Elife Transfer","India","Viewed | Promoted | Easy Apply","Yes"," Full-time
+Matches your job preferences, job type is Full-time.","About the job
+Our company: 
+A fast-growing start-up headquartered in San Francisco, CA, USA in the heart of Silicon Valley. We recruit worldwide as our customer base is global. All employees outside San Francisco headquarter work remotely.
+
+Elife is a Startup developing innovative technology in the passenger transport industry, providing any type of ground transportation worldwide, including Group/event transportation, NEMT transportation, senior and disability transportation, pet relocation, bilingual driver for non-English speak clients.
+
+Our market is the world. Our customers are everywhere. Our platform and apps are built on the cloud. We have endless exciting problems to solve and we only use the best and latest technology.
+
+Vision: Reliable ground transportation services globally with all types of vehicles. 
+
+Mission: Empower high-quality local fleets.
+
+Job Title: Senior Backend Python Developer
+Responsibilities:
+Design, develop, and maintain backend applications for customers worldwide.
+Collaborate with cross-functional teams, including frontend, backend, testing, and application design, to deliver integrated solutions.
+Build and optimize Python/MySQL backends hosted on Amazon Web Services (AWS).
+Enhance, maintain, and troubleshoot existing software applications to ensure performance and reliability.
+Write clean, highly scalable, and testable code following best practices.
+Identify, analyze, and resolve programming bugs and performance bottlenecks.
+Contribute to technical documentation and knowledge sharing across the team.
+
+What We’re Looking For:
+Bachelor’s degree in Computer Science, Engineering, or a related field (or equivalent practical experience).
+5+ years of experience in backend development, particularly with web and mobile applications.
+Strong expertise in Python and MySQL, with proven experience building scalable applications.
+Hands-on experience with AWS cloud services.
+Solid understanding of software development lifecycle (SDLC), version control, and CI/CD practices.
+Strong analytical and problem-solving skills with attention to detail.
+Ability to manage time effectively and deliver in a fast-paced, global environment.
+A proactive, can-do attitude and the ability to learn quickly.
+Strong teamwork and communication skills, with a collaborative mindset.
+Understanding of ML fundamentals, Building APIs/services to serve ML models
+
+Our Apps 
+Single-page web app running on both PC and mobile devices.
+Python/MySQL backend hosted on Amazon Web Services.
+Our customers and markets are worldwide in North America, South America, Asia, Europe, and Africa.","5 years","N/A","N/A","LINKEDIN"
+"Full Stack Engineer","Velodata Global Pvt Ltd","Kochi, Kerala, India","Viewed | Promoted | Easy Apply","Yes"," Full-time
+Matches your job preferences, job type is Full-time.","About the job
+Full Stack Developer (Python + React)
+Location: Remote
+
+Experience: 7–10 years
+Budget: ₹15 LPA – ₹20 LPA
+Working Hours: 7 PM – 7 AM IST (Client time zone support)
+Notice Period: Immediate
+
+Backend Skill Set (Mandatory)
+Python (Advanced): Strong expertise in performance-focused development.
+AWS Stack Expertise: Hands-on with Lambda, S3, API Gateway, DynamoDB, AWS SAM.
+Database Skills: DynamoDB data modeling & performance tuning.
+APIs: Experience in building & consuming REST APIs.
+CI/CD & Containers: Familiarity with tools like Docker, pipelines.
+Excellent problem-solving skills and strong attention to detail.
+Strong communication & teamwork skills.
+
+Frontend Skill Set
+React.js (Proficiency): Functional components, Hooks, Context API.
+JavaScript (ES6+), HTML5, CSS3/SCSS.
+State management with Redux/Context.
+Knowledge of build tools (Webpack, Vite, Babel).
+Responsive design & cross-browser compatibility.
+Debugging & performance optimization.
+Hands-on with UI libraries (PrimeReact, MUI, etc.).
+Familiarity with AWS Amplify for auth, API, and storage.
+Git & version control workflows.
+
+Client Interaction & Soft Skills
+Strong verbal & written communication.
+Ability to analyze, reproduce & resolve client-reported issues quickly.
+Proactive in giving timely updates & ensuring transparency.
+Collaborative approach with internal teams for issue resolution.
+Professional handling of client escalations.
+Flexibility to support client working hours (7 PM – 7 AM IST).","10 years","10 ","N/A","LINKEDIN"
+"React.js Developer - Remote","Abekus","India","Viewed | Promoted | Easy Apply","Yes"," Full-time
+Matches your job preferences, job type is Full-time.","About the job
+Company Description
+Abekus is a career advancement platform dedicated to helping learners build in-demand skills and gain the confidence needed to excel in their professional journeys. By providing structured practice, expert-driven content, and real-world preparation, Abekus empowers individuals to become job-ready and succeed in a competitive environment. Our mission is to bridge the gap between knowledge and application, enabling continuous learning and growth.
+
+Role Description
+We are looking for a talented React.js Developer on a full-time, remote basis. In this role, you will be responsible for designing, developing, and maintaining high-quality web applications with a focus on responsive and interactive user interfaces. You will leverage your expertise in React.js, modern JavaScript (ES6+), and related libraries to build scalable, performant, and user-friendly solutions that meet business and technical requirements.
+
+Key Responsibilities
+Design, develop, and maintain responsive web applications using React.js.
+Build reusable components and front-end libraries for future use.
+Ensure the technical feasibility of UI/UX designs and implement them effectively.
+Optimize applications for maximum performance, scalability, and cross-browser compatibility.
+Collaborate with designers, product managers, and backend developers to deliver robust solutions.
+Write clean, efficient, and well-documented code following best practices.
+Troubleshoot, debug, and resolve front-end issues quickly.
+Stay updated with the latest trends, tools, and best practices in React.js and front-end development.
+
+Qualifications
+Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent professional experience.
+Strong proficiency in JavaScript (ES6+), React.js, and Redux (or other state management libraries).
+Solid understanding of HTML5, CSS3, and responsive design principles.
+Experience with RESTful APIs and integrating front-end applications with backend services.
+Familiarity with version control systems like Git.
+Excellent problem-solving and analytical skills with attention to detail.
+Strong communication and collaboration skills in a remote working environment.
+Ability to work independently, manage multiple priorities, and deliver within deadlines.
+
+Preferred Qualifications
+Experience with TypeScript.
+Familiarity with modern build tools such as Webpack, Babel, or Vite.
+Knowledge of testing frameworks like Jest, React Testing Library, or Cypress.
+Experience with UI frameworks (e.g., Material-UI, Tailwind CSS, Ant Design).
+Exposure to cloud platforms (AWS, Azure, or GCP) and CI/CD practices is a plus.
+Understanding of performance optimization and accessibility best practices.","N/A","5, ","N/A","LINKEDIN"
+"Mern Stack Developer","Ishan Technologies","Pune, Maharashtra, India","Viewed | Promoted | Easy Apply","Yes"," Full-time
+Matches your job preferences, job type is Full-time.","About the job
+Job Summary:
+ We are seeking a skilled MERN Developer with 2–3 years of hands-on experience in building and optimizing full-stack web applications. The ideal candidate should have strong expertise in the MERN stack (MongoDB, Express.js, React, Node.js) and the ability to design scalable, high-performance applications. This role requires solid problem-solving skills, collaborative teamwork, and the ability to deliver high-quality solutions within Agile environments.
+Key Responsibilities:
+Full-Stack Development: Build and maintain web applications using React (front-end) and Node.js/Express.js (back-end).
+Database Management: Design schemas, write optimized queries, and ensure efficient integration with MongoDB and MySQL.
+API Development & Integration: Develop RESTful APIs and integrate third-party services/microservices.
+Performance Tuning: Troubleshoot and optimize applications for scalability, performance, and security.
+Agile Practices: Actively participate in sprint planning, daily stand-ups, code reviews, and retrospectives.
+Documentation: Maintain technical documentation for code, APIs, and deployment processes.
+Continuous Improvement: Keep updated with emerging trends in MERN technologies and contribute ideas to improve development workflows.
+Qualifications & Experience:
+Education: Bachelor’s degree in Computer Science, IT, or related field.
+Experience: 2–3 years of proven experience in full-stack development with the MERN stack.
+Technical Skills:
+Proficiency in React.js (hooks, state management with Redux/Context API, component lifecycle).
+Strong experience with Node.js & Express.js for server-side development.
+Solid understanding of MongoDB (schema design, indexing, aggregation) and working knowledge of MySQL.
+Expertise in JavaScript (ES6+) and familiarity with TypeScript.
+Experience with build tools like Webpack, Vite, and CI/CD pipelines.
+Knowledge of Git for version control.
+Familiarity with cloud platforms (preferably GCP) and Docker/containerization.
+Key Competencies:
+Strong problem-solving and debugging skills.
+Ability to work independently while collaborating in a team environment.
+Good communication and documentation skills.
+Proactive approach to learning and adapting to new technologies.","3 years","N/A","N/A","LINKEDIN"
+"Software Engineer - Fullstack (React.JS and Node.JS)","InfoVision Inc.","Pune, Maharashtra, India","Viewed | Promoted","No"," Full-time
+Matches your job preferences, job type is Full-time.","About the job
+Role Overview
+
+We are seeking a skilled Full Stack Developer, with a strong backend focus on Node.js, and working knowledge of React.js, to develop a custom enterprise platform. This system will interface with SDLC tools like JIRA, Jenkins, GitLab, and others to streamline license and access management, automate administrative tasks, and provide robust dashboards and governance features.
+
+ Required Skills
+
+4–6 years of professional development experience
+Strong expertise in Node.js, including async patterns and performance tuning
+Hands-on experience with AWS Lambda and serverless architecture
+Experience building integrations with tools like JIRA, Jenkins, GitLab, Bitbucket, etc.
+Working knowledge of React.js for UI development and integration
+Solid understanding of RESTful APIs, Webhooks, and API security
+Familiarity with Git and collaborative development workflows
+Exposure to CI/CD practices and infrastructure as code
+
+Good To Have
+
+Experience with AWS services such as DynamoDB, S3, EventBridge, and Step Functions
+Familiarity with enterprise SSO, OAuth2, or SAML
+Prior experience automating tool admin tasks and DevOps workflows
+Understanding of modern monitoring/logging tools like CloudWatch or ELK
+
+What You’ll Gain
+
+A chance to work on a transformative platform with direct enterprise impact
+Freedom to innovate and contribute to automation of key IT and DevOps functions
+Exposure to modern architectures including serverless, microservices, and event-driven systems
+Collaborative, outcome-oriented work culture","6 years","3, ","N/A","LINKEDIN"
+"Full Stack Developer","The Sleep Company","Mumbai Metropolitan Region","Viewed | Promoted | Easy Apply","Yes"," Full-time
+Matches your job preferences, job type is Full-time.","About the job
+Role Overview
+We’re looking for a talented Full-Stack Developer who is passionate about building scalable web applications. You’ll work closely with product managers, designers, and other engineers to deliver end-to-end solutions that power our e-commerce platform and digital ecosystem.
+
+Key Responsibilities
+Design, develop, and maintain web applications using React.js, Node.js, and GraphQL
+Collaborate with cross-functional teams to define, design, and ship new features
+Optimize applications for maximum speed and scalability
+Write clean, maintainable, and testable code
+Troubleshoot and debug applications
+Integrate with third-party APIs and backend services
+
+Key Requirements
+3–6 years of professional experience in full-stack development
+Strong proficiency in React.js, including hooks and component lifecycle
+Expertise in Node.js and asynchronous programming patterns
+In-depth experience working with GraphQL (Apollo or similar frameworks)
+Experience with relational and NoSQL databases (e.g., MongoDB, PostgreSQL)
+Understanding of RESTful APIs and microservices architecture
+Familiarity with CI/CD pipelines and version control (Git)
+Strong problem-solving skills and a proactive mindset
+Excellent communication and collaboration skills","6 years","N/A","N/A","LINKEDIN"
+"Nodejs Developer","True Tech Professionals","Gurugram, Haryana, India","Viewed | Promoted | Easy Apply","Yes"," Full-time
+Matches your job preferences, job type is Full-time.","About the job
+Experience: 3-6 years
+Responsibilities:
+Build scalable REST/GraphQL APIs using Node.js deployed on AWS.
+Design real-time and event-driven services leveraging AWS Lambda, Kinesis, or SNS/SQS.
+Deep understanding of Data Connection , Data Pooling and Security ( Authentication Authorization)
+Optimize services for low-latency and high availability.
+Ensure best practices for monitoring, testing, and CI/CD automation.
+Requirements:
+Strong experience with Node.js, Express.js, and TypeScript.
+Familiarity with AWS services (Lambda, API Gateway, ECS ).
+Knowledge of event-driven and microservices architecture.
+Hands-on with databases (PostgreSQL, MongoDB).
+Experience with Docker, ECS, and CI/CD (github actions)","6 years","N/A","N/A","LINKEDIN"
+"Full Stack Developer","Velodata Global Pvt Ltd","Kerala, India","Viewed | Promoted | Easy Apply","Yes"," Full-time
+Matches your job preferences, job type is Full-time.","About the job
+Job Description
+1️⃣ Position: Full Stack Developer
+Experience: 7–10 years
+Work Mode: Hybrid / Remote
+Notice Period: Immediate
+Budget: 15L – 20L
+Working Hours: 9 PM – 5 AM IST
+Location: Trivandrum
+
+Mandatory:
+Python (advanced, performance-focused development)
+AWS (expertise in Lambda, DynamoDB, S3, API Gateway, AWS SAM)
+Requirements:
+4–7 years of hands-on experience in Python development.
+Solid knowledge and experience with the AWS Stack (Lambda, S3, API Gateway, etc.).
+Good understanding of DynamoDB data modeling and performance tuning.
+Familiarity with CI/CD tools and containerization (e.g., Docker) is a plus.
+Excellent problem-solving skills and attention to detail.
+Strong communication and teamwork skills.
+Familiarity in building and consuming REST APIs.
+Frontend – Skill Set
+Proficiency in React.js (Hooks, Context API, functional components).
+Strong knowledge of JavaScript (ES6+), HTML5, and CSS3/SCSS.
+Experience with state management libraries (Redux, Context).
+Familiarity with REST APIs.
+Knowledge of frontend build tools (Webpack, Vite, Babel).
+Hands-on experience with Git and version control workflows.
+Understanding of responsive design and cross-browser compatibility.
+Strong debugging and problem-solving skills.
+Experience using UI libraries/frameworks like PrimeReact, MUI, etc.
+Familiarity with AWS Amplify for auth, API, storage in React applications.
+Client Interaction & Soft Skills
+Strong verbal and written communication skills to interact effectively with clients.
+Ability to understand client-reported issues and translate them into actionable technical tasks.
+Quick turnaround in analyzing, reproducing, and resolving client issues.
+Proactive in providing timely updates and ensuring transparency with clients.
+Collaborative approach with internal teams to expedite client issue resolution.
+Professional and composed handling of client concerns and escalations.","10 years","10 ","N/A","LINKEDIN"
+"Frontend Platform Engineer","Faclon Labs","Mumbai Metropolitan Region","Viewed","No"," Full-time
+Matches your job preferences, job type is Full-time.","About the job
+Type: Full time
+
+Experience
+
+Location: Mumbai ( On-site/ Remote)
+
+What You’ll Do
+
+Design, implement, and optimize frontend architectures for scalability and performance.
+Collaborate with product and backend teams to ensure smooth integration and alignment on system design.
+Conduct technical research on emerging frontend technologies and frameworks to evaluate adoption opportunities.
+Drive systematic improvements and targeted refactoring of existing codebases to enhance maintainability and reduce technical debt.
+Plan and lead initiatives for platform improvements such as performance optimization, bundle size reduction, and modularization.
+Mentor junior developers and promote best practices in frontend engineering.
+Drive proof-of-concepts (POCs) and exploratory development for innovative solutions.
+Actively contribute to technical discussions, architectural planning, and decision making processes.
+
+What We’re Looking For
+
+Strong proficiency in JavaScript, TypeScript, and modern frontend frameworks(Angular, React, Vue).
+Deep understanding of frontend architecture, modular design, and design patterns.
+Experience with performance optimization techniques such as lazy loading, tree shaking, and caching strategies.
+Hands-on knowledge of state management (NgRx, Redux, or similar).
+Experience with frontend build tools (Webpack, esbuild, Vite, Rollup).
+Proficiency in responsive design, accessibility, and cross-browser compatibility.
+Familiarity with micro-frontend architectures and design systems.
+Experience with testing frameworks (Jest, Jasmine, Cypress, Playwright).Knowledge of CI/CD pipelines and DevOps practices for frontend deployments.
+Strong debugging and problem-solving skills for large-scale applications.Understanding of Web Workers, OffscreenCanvas, and techniques for offloading heavy computations.
+Experience in working with real-time data (WebSockets, MQTT).Ability to perform technical research, evaluate trade-offs, and recommend adoption strategies.
+Excellent communication and collaboration skills, with experience in architectural discussions.","N/A","N/A","N/A","LINKEDIN"
+"Software Engineer","PrimeX Meta","India","Viewed | Promoted | Easy Apply","Yes"," Full-time
+Matches your job preferences, job type is Full-time.","About the job
+Company Description
+ PrimeX Meta, based in Dubai, is a leading AI-powered IT solutions partner. We specialize in building scalable software, mobile applications, AI automation, and cloud solutions tailored to meet the needs of businesses. We pride ourselves on leveraging cutting-edge technology to deliver customized solutions that drive efficiency and innovation.
+ Role Description
+ This is a full-time remote role for a Software Engineer. The Software Engineer will be responsible for designing, developing, and maintaining high-quality software solutions. Daily tasks include writing clean and efficient code, collaborating with cross-functional teams, troubleshooting and debugging software issues, and participating in code reviews. The role also involves staying updated with the latest industry trends and best practices to ensure the delivery of robust and scalable software solutions.
+ Qualifications
+  Strong foundation in Computer Science
+Experience in Back-End Web Development and Software Development
+Proficiency in Programming and Object-Oriented Programming (OOP)
+Excellent problem-solving skills and attention to detail
+Ability to work independently and remotely
+Effective communication and teamwork skills
+Experience in AI and cloud solutions is a plus
+Bachelor's degree in Computer Science, Software Engineering, or related field","N/A","N/A","N/A","LINKEDIN"
+"Fullstack Developer (MERN)","The Sleep Company","Mumbai Metropolitan Region","Viewed","No"," On-site
+Matches your job preferences, workplace type is On-site.","About the job
+This job is sourced from a job board. Learn More
+Role Overview
+
+We’re looking for a talented Full-Stack Developer who is passionate about building scalable web applications. You’ll work closely with product managers, designers, and other engineers to deliver end-to-end solutions that power our e-commerce platform and digital ecosystem.
+
+Key Responsibilities
+
+Design, develop, and maintain web applications using React.js, Node.js, and GraphQL
+Collaborate with cross-functional teams to define, design, and ship new features
+Optimize applications for maximum speed and scalability
+Write clean, maintainable, and testable code
+Troubleshoot and debug applications
+Integrate with third-party APIs and backend services
+
+Key Requirements
+
+4–8 years of professional experience in full-stack development
+Strong proficiency in React.js, including hooks and component lifecycle
+Expertise in Node.js and asynchronous programming patterns
+In-depth experience working with GraphQL (Apollo or similar frameworks)
+Experience with relational and NoSQL databases (e.g., MongoDB, PostgreSQL)
+Understanding of RESTful APIs and microservices architecture
+Familiarity with CI/CD pipelines and version control (Git)
+Strong problem-solving skills and a proactive mindset
+Excellent communication and collaboration skills
+
+Skills:- NodeJS (Node.js), React.js, GraphQL and MongoDB","8 years","N/A","N/A","LINKEDIN"
+"Full Stack Engineer","Prosperspective HR Solutions","Pune, Maharashtra, India","Viewed | Promoted | Easy Apply","Yes"," Full-time
+Matches your job preferences, job type is Full-time.","About the job
+About the role
+Own features end-to-end across frontend, backend, and deployment. You will also mentor juniors and ensure best practices in system design.
+Responsibilities
+Architect and build end-to-end features across React frontend and Python/Java backend
+Lead integrations with orchestration frameworks (LangGraph, Dify, LangChain)
+Design and optimize databases (PostgreSQL, Milvus, PG Vector, AI Search)
+Implement CI/CD pipelines and monitoring (Grafana, MLflow, Arize)
+Ensure system scalability, security, and reliability
+Mentor junior engineers in coding standards, GitHub workflows, and DevOps best practices
+Requirements
+Strong experience with React, Angular, Python, Java, SQL/NoSQL databases
+Familiarity with orchestration (LangChain, LangGraph) and API design
+Experience with containerization (Docker, Kubernetes)
+Knowledge of monitoring and observability (Grafana, Langfuse, MLflow)
+Strong DevOps and GitHub Actions/GitLab CI/CD pipeline skills","N/A","N/A","N/A","LINKEDIN"
+"Full Stack JavaScript Developer (React.js)","Scout Inc.","Mumbai Metropolitan Region","Viewed | Easy Apply","Yes"," Hybrid
+Matches your job preferences, workplace type is Hybrid.","About the job
+Hiring Full Stack JavaScript Developers (React.js) to work on web applications that span frontend and backend. You will leverage JavaScript across the stack to deliver seamless experiences.
+
+Salary: INR 35,00,000 - 45,00,000 / year (based on experience)
+
+Location: Bangalore/Hyderabad/Mumbai/Delhi NCR preferred
+
+Responsibilities
+
+Build reusable components and interfaces using React.js. 
+Develop backend logic, APIs, and integrations with Node.js/Express. 
+Optimize applications for performance and scalability. 
+Participate in code reviews and agile development cycles. 
+
+Eligibility
+
+3+ years of experience in full stack JavaScript development. 
+Strong skills in React.js, Node.js, ES6+, TypeScript. 
+Experience with SQL/NoSQL databases. 
+Familiarity with testing frameworks and DevOps practices. 
+Ability to write clean, maintainable, and testable code. 
+
+(*Note: This is a requirement for one of Scout's clients)
+
+Skills: react.js,javascript,react","3 years","35,00,000 ","N/A","LINKEDIN"
