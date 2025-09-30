@@ -1,3 +1,4 @@
+import os
 import time
 import re
 from urllib.parse import quote
@@ -34,8 +35,8 @@ class LinkedInScraper:
         self.f_TPR = last_posted_map.get(self.last_posted, "")
 
         # --- Chrome profiles ---
-        self.user_data_dir = "~/Library/Application Support/Google/Chrome"
-        self.profiles = ["Default"]  # fallback
+        self.user_data_dir = os.path.expanduser("~/Library/Application Support/Google/Chrome")
+        self.profiles = ["Default", "Profile 1", "Profile 2", "Profile 3", "Profile 4"]  # fallback
         self.selected_profile = None
 
         # --- Managers ---
@@ -64,8 +65,9 @@ class LinkedInScraper:
     def setup_driver(self):
         self.driver_manager = DriverManager(
             user_data_dir=self.user_data_dir,
-            profile_name=self.selected_profile
+            profile_name=self.selected_profile,
         )
+        # self.driver_manager = DriverManager()
         self.driver, self.wait = self.driver_manager.get_driver()
 
     # ---------------- Ensure LinkedIn Tab ----------------
@@ -83,32 +85,6 @@ class LinkedInScraper:
             self.driver.execute_script("window.open('https://www.linkedin.com/feed/', '_blank');")
             self.driver.switch_to.window(self.driver.window_handles[-1])
 
-    # ---------------- Handle Sign-in Modal ----------------
-    def handle_signin_modal(self):
-        """Check for LinkedIn contextual sign-in modal and log in if present."""
-        try:
-            header = self.wait.until(lambda d: d.find_element(By.CSS_SELECTOR, "h2.sign-in-modal__header"))
-            if "Welcome back" in header.text:
-                print("🔑 Sign-in modal detected, logging in...")
-
-                email_input = self.driver.find_element(By.ID, "base-sign-in-modal_session_key")
-                email_input.clear()
-                email_input.send_keys(self.email)
-
-                pwd_input = self.driver.find_element(By.ID, "base-sign-in-modal_session_password")
-                pwd_input.clear()
-                pwd_input.send_keys(self.password)
-
-                signin_btn = self.driver.find_element(By.CSS_SELECTOR, "button.sign-in-form__submit-btn--full-width")
-                signin_btn.click()
-
-                self.wait.until(lambda d: "feed" in d.current_url or "jobs" in d.current_url)
-                print("✅ Logged in via sign-in modal.")
-                return True
-        except Exception:
-            pass
-        return False
-
     # ---------------- Login ----------------
     def login(self):
         # Navigate to homepage first
@@ -119,10 +95,6 @@ class LinkedInScraper:
         current_url = self.driver.current_url
         if "feed" in current_url or "jobs" in current_url:
             print("✅ Logged in automatically via Chrome profile cookies.")
-            return
-
-        # Handle modal login
-        if self.handle_signin_modal():
             return
 
         # Fallback manual login
@@ -155,8 +127,6 @@ class LinkedInScraper:
 
         self.driver.get(search_url)
 
-        # Handle modal if it appears during search
-        self.handle_signin_modal()
         time.sleep(5)
         print(f"🔍 Searching jobs for '{', '.join(enabled_titles)}' in '{self.location}' with filter '{self.last_posted}'...")
 
@@ -164,7 +134,7 @@ class LinkedInScraper:
         processed_jobs = set()
         page = 1
 
-        while len(results) < 100 and page <= 5:
+        while len(results) < 100 and page <= 1:
             time.sleep(3)
             prev_height = self.driver.execute_script("return document.body.scrollHeight")
             while True:

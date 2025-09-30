@@ -1,6 +1,5 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Button } from '../../ui-library/components/atoms'
 
 interface IHeaderProps extends React.HTMLAttributes<HTMLElement> {
     children?: any
@@ -47,7 +46,7 @@ const Header = () => {
                     <line x1="140" y1="100" x2="140" y2="120" stroke="#333333" stroke-width="4" />
                 </svg>
             </div>
-            
+
         </HeaderStyled>
     )
 }

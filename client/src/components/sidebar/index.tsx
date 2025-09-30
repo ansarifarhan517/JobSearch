@@ -1,8 +1,8 @@
 import React, { useCallback } from 'react'
 import styled from 'styled-components'
 import FontIcon from '../../ui-library/components/atoms/FontIcon';
-import { faArrowLeft, faArrowRight, faGrip, faSuitcase, type IconDefinition } from '@fortawesome/free-solid-svg-icons';
-import index from '../../ui-library/components/molecules/ErrorTooltip';
+import { faArrowLeft, faArrowRight, faGrip, faHome, type IconDefinition } from '@fortawesome/free-solid-svg-icons';
+import { Link } from 'react-router-dom';
 
 interface ISidebarProps extends React.HTMLAttributes<HTMLElement> { 
     sidebarData?: sidebarItem[];
@@ -11,9 +11,10 @@ interface ISidebarProps extends React.HTMLAttributes<HTMLElement> {
 interface sidebarItem {
     label: string;
     icon?: IconDefinition;
+    link: string;
 }
 
-const Sidebar = ({ sidebarData = [{ label: 'Dashboard', icon: faGrip }, { label: 'Jobs', icon: faSuitcase }] }: ISidebarProps) => {
+const Sidebar = ({ sidebarData = [{ label: 'Home', icon: faHome, link: '/home' }, { label: 'Dashboard', icon: faGrip, link: '/dashboard' }] }: ISidebarProps) => {
 
     const [isOpen, setIsOpen] = React.useState(true);
     const SidebarStyled = styled.div`
@@ -120,8 +121,12 @@ const Sidebar = ({ sidebarData = [{ label: 'Dashboard', icon: faGrip }, { label:
             </div>
             <ul>
                 {sidebarData?.map((item, index) => {
-                    return isOpen ? <li key={index}>{item.label}</li> :
-                    <div className='sidebar-icon'><FontIcon icon={item.icon ?? faArrowRight} size="lg" /></div>;
+                    return isOpen ? <Link to={item.link}><li key={index}>{item.label}</li></Link> :
+                    <div className='sidebar-icon'>
+                        <Link to={item.link}>
+                            <FontIcon icon={item.icon ?? faArrowRight} size="lg" />
+                        </Link> 
+                    </div>;
                 })}
             </ul>
             <div className='sidebar-footer'>
